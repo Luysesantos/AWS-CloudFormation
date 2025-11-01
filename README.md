@@ -47,9 +47,7 @@ O template abaixo é a estrutura mínima necessária para criar um Security Grou
 
 A criação da Stack foi bem-sucedida.
 
-![Captura de tela do Security Group criado no console do EC2.](images/sg_dio.png)`)**
-
-[Referência para a sua imagem de sucesso]
+![Evidência do Security Group criado com sucesso](images/sg-dio.png)
 
 ### Detalhes da Criação:
 
